@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleydhaka&label=Profile%20views&color=0e75b6&style=flat" alt="shirleydhaka" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shirleydhaka" target="blank"><img src="https://img.shields.io/twitter/follow/shirleydhaka?logo=twitter&style=for-the-badge" alt="shirleydhaka" /></a> </p>
-
-- 📫 How to reach me **shirleydhaka7@gmail.com**
+- 📫 How to reach me **kartikeydhaka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
