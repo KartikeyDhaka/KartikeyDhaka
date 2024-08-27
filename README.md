@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikey Dhaka</h1>
-<h3 align="center"> # 💫 About Me: Welcome to my GitHub profile! I am currently pursuing Computer Science with Artificial Intelligence at IIIT Delhi. My love for technology is unmatched and I am constantly exploring new frontiers in the field of AI and ML.</h3>
+<h3 align="center">💫 About Me: Welcome to my GitHub profile! I am currently pursuing Computer Science with Artificial Intelligence at IIIT Delhi. My love for technology is unmatched and I am constantly exploring new frontiers in the field of AI and ML.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shirleydhaka&label=Profile%20views&color=0e75b6&style=flat" alt="shirleydhaka" /> </p>
 
 - 📫 How to reach me **kartikeydhaka@gmail.com**
 
@@ -11,15 +9,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kartikey-dhaka-661428207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleydhaka" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/KartikeyDhaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="shirleydhaka" height="30" width="40" /></a>
+<a href="https://x.com/Kartikeydhaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirleydhaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartikey-dhaka-661428207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleydhaka" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kartikeydhaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shirleydhaka" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KartikeyDhaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shirleydhaka" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeydhaka&show_icons=true&locale=en&layout=compact" alt="shirleydhaka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeydhaka&show_icons=true&locale=en" alt="shirleydhaka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeydhaka&" alt="shirleydhaka" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirleydhaka&show_icons=true&locale=en&layout=compact" alt="shirleydhaka" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kartikeydhaka&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shirleydhaka&show_icons=true&locale=en" alt="shirleydhaka" /></p>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shirleydhaka&" alt="shirleydhaka" /></p>
+[![](https://visitcount.itsvg.in/api?id=gabbarX&icon=0&color=10)](https://visitcount.itsvg.in)
