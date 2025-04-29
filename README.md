@@ -9,19 +9,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Kartikeydhaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shirleydhaka" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kartikey-dhaka-661428207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shirleydhaka" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/kartikeydhaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shirleydhaka" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/KartikeyDhaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shirleydhaka" height="30" width="40" /></a>
+<a href="https://x.com/Kartikeydhaka1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikeydhaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartikey-dhaka-661428207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartikeydhaka" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kartikeydhaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kartikeydhaka" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/KartikeyDhaka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartikeydhaka" height="30" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeydhaka&show_icons=true&locale=en&layout=compact" alt="shirleydhaka" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeydhaka&show_icons=true&locale=en" alt="shirleydhaka" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikeydhaka&" alt="shirleydhaka" /></p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kartikeydhaka&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeydhaka&show_icons=true&locale=en&layout=compact" alt="kartikeydhaka" /></p>
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
